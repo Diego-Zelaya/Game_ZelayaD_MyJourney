@@ -1,0 +1,6 @@
+How To Play:
+
+Jump =  W,  Arrow Up Key
+Down =  S,  Arrow Down Key
+Left =  A,  Arrow Left Key
+Right = D,  Arrow Right Key 
